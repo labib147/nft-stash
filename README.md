@@ -6,3 +6,4 @@
 
 To start App:
 `npm run dev`
+`npx hardhat run scripts/deploy.js --network localhost`
