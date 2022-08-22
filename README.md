@@ -7,3 +7,5 @@
 To start App: </br>
 `npm run dev` </br>
 `npx hardhat run scripts/deploy.js --network localhost`
+
+https://dev.to/fidalmathew/send-files-to-ipfs-using-pinata-api-in-reactjs-3c3
