@@ -4,6 +4,6 @@
 3. `npx tailwindcss init -p`
 
 
-To start App:
-`npm run dev`
+To start App: </br>
+`npm run dev` </br>
 `npx hardhat run scripts/deploy.js --network localhost`
